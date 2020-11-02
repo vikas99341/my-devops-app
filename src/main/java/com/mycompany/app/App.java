@@ -1,13 +1,12 @@
-package com.mycompany.app;
+package com.mycompany.app.App;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public class JenkinsCalculator {
+	// Add two numbers
+	public int addNumbers(int numberone ,int numbertwo) {
+		return (numberone + numbertwo) ;
+	}
+	// Sub two numbers
+	public int subNumbers(int numberone ,int numbertwo) {
+		return (numberone - numbertwo) ;
+	}	
 }
