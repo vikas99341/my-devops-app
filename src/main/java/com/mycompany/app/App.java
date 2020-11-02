@@ -1,6 +1,6 @@
 package com.mycompany.app.App;
 
-public class JenkinsCalculator {
+public class App {
 	// Add two numbers
 	public int addNumbers(int numberone ,int numbertwo) {
 		return (numberone + numbertwo) ;
