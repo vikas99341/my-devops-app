@@ -1,4 +1,4 @@
-package com.mycompany.app.App;
+package com.mycompany.app;
 
 public class App {
 	// Add two numbers
